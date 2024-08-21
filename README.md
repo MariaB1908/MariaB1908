@@ -2,7 +2,7 @@
 
 Meu nome é Maria Clara
 
-- Estou estudando na Alura
+- Estou estudando na [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -13,4 +13,4 @@ Meu nome é Maria Clara
 @mariaclarabasilio_
 
 
-! [] (https://media1.tenor.com/m/2hGic0ryZdkAAAAd/k%C3%B6pek-sahil.gif)
+![] (https://media1.tenor.com/m/2hGic0ryZdkAAAAd/k%C3%B6pek-sahil.gif)
