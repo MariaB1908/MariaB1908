@@ -12,4 +12,4 @@ Meu nome é Maria Clara
 
 @mariaclarabasilio_
 
-![](https://media1.tenor.com/m/TvQonmbeK1QAAAAC/lego-software-lego-media.gif) 
+<img src="https://media1.tenor.com/m/g9WRGLK3JSwAAAAd/dog-happy-dog.gif" alt="a dog is standing on a brick sidewalk and looking up at the sky ."/>![image](https://github.com/user-attachments/assets/d9de4889-da22-46d2-a0f1-603ffcc96c74)
