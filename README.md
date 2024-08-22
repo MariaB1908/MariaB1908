@@ -12,8 +12,4 @@ Meu nome é Maria Clara
 
 @mariaclarabasilio_
 
-
-
-
-
-! [] (https://media1.tenor.com/m/oeVNMmNxV30AAAAC/media-press-media.gif)
+! [] (https://media1.tenor.com/m/TvQonmbeK1QAAAAC/lego-software-lego-media.gif) 
